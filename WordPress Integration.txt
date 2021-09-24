@@ -1,0 +1,5 @@
+teleri.site is a custom desogned website based on WordPress engine. It's hosted on IONOS.com for web hosting and the domain name is provided by the same provider.
+
+Watson is integrated through a custom plug-in by IBM cognitive class.
+
+Please visit us on teleri.site and enjoy the conversation with Teleri :)
